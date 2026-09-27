@@ -12,3 +12,39 @@
 2026-09-22 01:42:13,886 [ERROR] [document_service] Error en renderizado de DOC-2024-F0CEDBEB (pago tx_pay_902148): KeyError: 'estado_civil'
 2026-09-22 01:42:13,892 [INFO] [document_service] Iniciando generacion de documento DOC-2024-AA798C43 para cliente rut=18.234.567-8 con pago=tx_pay_902199
 2026-09-22 01:42:13,894 [INFO] [document_service] Documento DOC-2024-AA798C43 generado exitosamente.
+2026-09-27 20:04:19,878 [INFO] [document_service] Iniciando generacion de documento DOC-2024-B472D4CF para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:04:19,883 [ERROR] [document_service] Error en renderizado de DOC-2024-B472D4CF (pago tx_pay_902148): KeyError: 'estado_civil'
+2026-09-27 20:04:19,897 [INFO] [document_service] Iniciando generacion de documento DOC-2024-A53AF75C para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:04:19,899 [ERROR] [document_service] Error en renderizado de DOC-2024-A53AF75C (pago tx_pay_902148): KeyError: 'estado_civil'
+2026-09-27 20:04:19,906 [INFO] [document_service] Iniciando generacion de documento DOC-2024-8843480A para cliente rut=18.234.567-8 con pago=tx_pay_902199
+2026-09-27 20:04:19,908 [INFO] [document_service] Documento DOC-2024-8843480A generado exitosamente.
+2026-09-27 20:04:24,245 [INFO] [document_service] Iniciando generacion de documento DOC-2024-7EC2337F para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:04:24,264 [ERROR] [document_service] Error en renderizado de DOC-2024-7EC2337F (pago tx_pay_902148): KeyError: 'estado_civil'
+2026-09-27 20:04:24,279 [INFO] [document_service] Iniciando generacion de documento DOC-2024-36032D71 para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:04:24,280 [ERROR] [document_service] Error en renderizado de DOC-2024-36032D71 (pago tx_pay_902148): KeyError: 'estado_civil'
+2026-09-27 20:04:24,284 [INFO] [document_service] Iniciando generacion de documento DOC-2024-F1C31C22 para cliente rut=18.234.567-8 con pago=tx_pay_902199
+2026-09-27 20:04:24,286 [INFO] [document_service] Documento DOC-2024-F1C31C22 generado exitosamente.
+2026-09-27 20:05:34,423 [INFO] [document_service] Iniciando generacion de documento DOC-2024-F8232983 para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:05:34,427 [ERROR] [document_service] Error inesperado en DOC-2024-F8232983: name 'logger' is not defined
+2026-09-27 20:05:34,441 [INFO] [document_service] Iniciando generacion de documento DOC-2024-17690DD4 para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:05:34,442 [ERROR] [document_service] Error inesperado en DOC-2024-17690DD4: name 'logger' is not defined
+2026-09-27 20:05:34,446 [INFO] [document_service] Iniciando generacion de documento DOC-2024-084FDA70 para cliente rut=18.234.567-8 con pago=tx_pay_902199
+2026-09-27 20:05:34,447 [ERROR] [document_service] Error inesperado en DOC-2024-084FDA70: name 'logger' is not defined
+2026-09-27 20:05:51,384 [INFO] [document_service] Iniciando generacion de documento DOC-2024-A75CDF1B para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:05:51,388 [ERROR] [document_service] Error en renderizado de DOC-2024-A75CDF1B (pago tx_pay_902148): KeyError: 'estado_civil'
+2026-09-27 20:05:51,402 [INFO] [document_service] Iniciando generacion de documento DOC-2024-EDF0380D para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:05:51,403 [ERROR] [document_service] Error en renderizado de DOC-2024-EDF0380D (pago tx_pay_902148): KeyError: 'estado_civil'
+2026-09-27 20:05:51,407 [INFO] [document_service] Iniciando generacion de documento DOC-2024-84B06C51 para cliente rut=18.234.567-8 con pago=tx_pay_902199
+2026-09-27 20:05:51,409 [INFO] [document_service] Documento DOC-2024-84B06C51 generado exitosamente.
+2026-09-27 20:06:48,780 [INFO] [document_service] Iniciando generacion de documento DOC-2024-4850C32B para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:06:48,784 [INFO] [document_service] Documento DOC-2024-4850C32B generado exitosamente.
+2026-09-27 20:06:48,786 [INFO] [document_service] Iniciando generacion de documento DOC-2024-6A3572B7 para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:06:48,787 [INFO] [document_service] Documento DOC-2024-6A3572B7 generado exitosamente.
+2026-09-27 20:06:48,788 [INFO] [document_service] Iniciando generacion de documento DOC-2024-4D6A52D2 para cliente rut=18.234.567-8 con pago=tx_pay_902199
+2026-09-27 20:06:48,790 [INFO] [document_service] Documento DOC-2024-4D6A52D2 generado exitosamente.
+2026-09-27 20:07:07,147 [INFO] [document_service] Iniciando generacion de documento DOC-2024-A3BEE45F para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:07:07,162 [INFO] [document_service] Documento DOC-2024-A3BEE45F generado exitosamente.
+2026-09-27 20:07:07,163 [INFO] [document_service] Iniciando generacion de documento DOC-2024-AE59B235 para cliente rut=15.342.198-4 con pago=tx_pay_902148
+2026-09-27 20:07:07,165 [INFO] [document_service] Documento DOC-2024-AE59B235 generado exitosamente.
+2026-09-27 20:07:07,166 [INFO] [document_service] Iniciando generacion de documento DOC-2024-F488B41B para cliente rut=18.234.567-8 con pago=tx_pay_902199
+2026-09-27 20:07:07,168 [INFO] [document_service] Documento DOC-2024-F488B41B generado exitosamente.
