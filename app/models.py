@@ -23,8 +23,8 @@ class Client(Base):
     address: Mapped[str] = mapped_column(String(255), nullable=True)
     commune: Mapped[str] = mapped_column(String(100), nullable=True)
     region: Mapped[str] = mapped_column(String(100), nullable=True)
-    estado_civil: Mapped[str] = mapped_column(String(100), nullable=True)
-    profesion_oficio: Mapped[str] = mapped_column(String(150), nullable=True)
+    estado_civil: Mapped[str | None] = mapped_column(String(100), nullable=True)
+    profesion_oficio: Mapped[str | None] = mapped_column(String(150), nullable=True)
     is_migrated: Mapped[bool] = mapped_column(Boolean, default=False)
 
 
